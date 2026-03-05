@@ -8,11 +8,11 @@ library(fontawesome)
 
 ------------------------------------------------------------------------
 
-I am Sam, a data scientist, believe the data can talk.
+I am Sam, a data scientist, who believe the data can talk.
 
 <br>
 
-## `r fa("diagram-project")` TECHNICAL EXPERIENCES (4)
+## `r fa("diagram-project")` TECHNICAL EXPERIENCES (5)
 
 ### `r fa("briefcase-medical")` Impact of Kidney Stone History on Survival Outcomes in Upper Tract Urothelial Carcinoma: A Multi-Institutional Propensity Score Weighted Analysis
 
