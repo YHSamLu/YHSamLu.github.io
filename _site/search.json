@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yi-Hsin Sam Lu",
+    "section": "",
+    "text": "I am Sam, a data scientist, believe the data can talk."
+  },
+  {
+    "objectID": "index.html#technical-experiences-4",
+    "href": "index.html#technical-experiences-4",
+    "title": "Yi-Hsin Sam Lu",
+    "section": " TECHNICAL EXPERIENCES (4)",
+    "text": "TECHNICAL EXPERIENCES (4)\n\n Impact of Kidney Stone History on Survival Outcomes in Upper Tract Urothelial Carcinoma: A Multi-Institutional Propensity Score Weighted Analysis\nBor-En Jong, MD; Hsi-Chin Wu, MD, MS; Wen-Chi Chen, MD, PhD; Wen-Jeng Wu, MD, PhD; Ching-Chia Li, MD, PhD; Yi-Hsin Lu, MS; Chen-Han Wilfred Wu, MD, PhD; Yao-Chou Tsai, MD, PhD.\n\nPublished: JAMA Open\nSource Code: stone_w.UTUC\n\n\nAbstract\nImportance Upper tract urothelial carcinoma (UTUC) is aggressive, and whether a history of urinary tract stones influences survival after radical nephroureterectomy (RNU) is unclear.\nObjective To determine the association between urinary stone history and oncological outcomes in patients with UTUC undergoing RNU.\nDesign, Setting, and Participants This multicenter retrospective cohort study was part of the Taiwan UTUC Registry Study, a multicenter registry encompassing 21 tertiary and regional hospitals throughout Taiwan. Medical records from September 1, 1988, to December 31, 2023, were reviewed; follow-up continued through December 31, 2024, and data were analyzed from January 15 to March 30, 2025. Participants were adults with histologically confirmed UTUC who underwent RNU.\nExposure Documented history of urinary tract stones identified via medical records.\nMain Outcomes and Measures Primary outcomes were cancer-specific survival (CSS) and disease-free survival (DFS). Secondary outcomes were overall survival (OS) and bladder recurrence–free survival (BRFS). Hazard ratios (HRs) with 95% CIs were estimated using Cox proportional hazards models adjusted with overlap weighting.\nResults Of 5824 registry patients, 3414 patients (mean [SD] age, 68.2 [10.5] years; 1957 female [57.3%]) met inclusion criteria. Among these, 169 (4.9%) had a history of urinary stones. Median (IQR) follow-up was 53.86 (23.72-92.50) months. Patients with history of urinary stones, compared with those without, had higher rates of metastasis (25 patients [14.8%] vs 233 patients [7.2%]) and UTUC-specific death (47 patients [27.8%] vs 599 patients [18.5%]). After overlap weighting, stone history was independently associated with worse CSS (HR, 1.83; 95% CI, 1.35-2.47; P &lt; .001) and DFS (HR, 1.69; 95% CI, 1.29-2.21; P &lt; .001). Stone history was not significantly associated with OS (HR, 1.18; 95% CI, 0.94-1.48) or BRFS (HR, 1.09; 95% CI, 0.86-1.37).\nConclusions and Relevance In this cohort study of patients with UTUC who underwent radical nephroureterectomy, a history of urinary tract stones was associated with inferior CSS and DFS, suggesting that patients with UTUC and stone history may represent a higher-risk subgroup that could warrant intensified surveillance and consideration of tailored adjuvant therapy.\n\n\n\n Data Visualization for Jazz Musicians (Thesis)\n\nAdviser: Prof. Chen-Hai Andy Tsao\nDate: 06/2021 - 06/2023\nLocation: National Dong-Hwa University\nLinks: PDF, Maps for Jazz Musicians\nSummary\n\nDisplayed the visualization as a map.\nUtilized three primary colors on multi-value variables.\nIllustrate the relationship between musicians by their distance and color based on variables, such as instruments, genres, etc.\nUtilized PCA (Principal Component Analysis) and t-SNE (t-distributed Stochastic Neighbor Embedding) to generate the map from the data matrix.\nThe map provides richer insights compared to network graphs, exemplified by the acclaimed visualization at Linked Jazz.\n\n\n\n\n Volleyball Matches/Players Visualization (Interest-Driven Project)\n\nDate: 10/2023 - Present\nLinks: Maps Webpage\nSummary\n\nDeveloped a map visualization for displaying player data during volleyball matches.\nImplemented histograms and tables to effectively illustrate match information between teams.\nThe map highlights relationships and statistics among players in different positions.\nStreamlined information accessibility, saving players valuable time by eliminating the need to navigate through extensive data tables.\n\n\n\n\n Music Feature (Statistical Machine Learning)\n\nAdviser: Prof. Chen-Hai Andy Tsao\nDate: 09/2022 - 01/2023\nLocation: National Dong-Hwa University\nLinks: PDF\nSummary\n\nApplied statistical machine learning techniques to filter audio genres based on their features.\nAchieved a 70% accuracy using the random forest model.\n\n\n\n\n S&P Global Rating Xpress Dataset (Dataset Management)\n\nPI: Prof. Chih-Kang Chu\nDate: 08/2022 - 01/2023\nLocation: National Dong-Hwa University\nSummary\n\nUtilized PostgreSQL to create a connection with the online database, facilitating data updates in local storage.\nDeveloped a data transformation function using R, ensuring data accuracy and cleanliness."
+  },
+  {
+    "objectID": "index.html#education-2",
+    "href": "index.html#education-2",
+    "title": "Yi-Hsin Sam Lu",
+    "section": " EDUCATION (2)",
+    "text": "EDUCATION (2)\n\n Master, Applied Mathethatics, National Dong Hwa University.\n\nThesis Title: Visualization for Jazz Musicians\nAdviser: Prof. Chen-Hai Andy Tsao\nDate: 02/2021 - 06/2023\n\n\n\n Bachelor, Statistcal Science, National Dong Hwa University.\n\nDate: 09/2014 - 09/2019"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
