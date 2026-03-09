@@ -7,9 +7,11 @@ website:
     left:
       - href: https://yhsamlu.github.io/yhsamlu.io/main/index.html
         text: Home
+      - href: index.qmd
+        text: Bio
       - href: about.qmd
         text: About
-      - href: index.qmd
+      - href: Research.qmd
         text: Research
       - href: story.qmd
         text: Stories

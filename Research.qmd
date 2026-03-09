@@ -1,18 +1,10 @@
----
-title: "Yi-Hsin Sam Lu"
----
 
 ```{r load_packages, message=FALSE, warning=FALSE, include=FALSE}
 library(fontawesome)
 ```
 
-------------------------------------------------------------------------
 
-I am Sam, a data scientist, who believe the data can talk.
-
-<br>
-
-## `r fa("diagram-project")` TECHNICAL EXPERIENCES (5)
+## `r fa("diagram-project")` Projects
 
 ### `r fa("briefcase-medical")` Impact of Kidney Stone History on Survival Outcomes in Upper Tract Urothelial Carcinoma: A Multi-Institutional Propensity Score Weighted Analysis
 
@@ -80,14 +72,3 @@ Bor-En Jong, MD; Hsi-Chin Wu, MD, MS; Wen-Chi Chen, MD, PhD; Wen-Jeng Wu, MD, Ph
     -   Utilized PostgreSQL to create a connection with the online database, facilitating data updates in local storage.
     -   Developed a data transformation function using R, ensuring data accuracy and cleanliness.
 
-## `r fa("graduation-cap")` EDUCATION (2)
-
-### ![](images/NDHU_logo.png){width="36px"} Master, Applied Mathethatics, National Dong Hwa University.
-
--   Thesis Title: Visualization for Jazz Musicians
--   Adviser: Prof. Chen-Hai Andy Tsao
--   Date: 02/2021 - 06/2023
-
-### ![](images/NDHU_logo.png){width="36px"} Bachelor, Statistcal Science, National Dong Hwa University.
-
--   Date: 09/2014 - 09/2019
