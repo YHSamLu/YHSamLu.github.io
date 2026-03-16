@@ -1,5 +1,5 @@
 ---
-title: "Sam"
+title: "Yi-Hsin Sam Lu (呂一昕)"
 image: images/Sam.jpg
 about:
   template: jolla
@@ -13,5 +13,12 @@ about:
     # (additional links excluded for brevity)
 ---
 
-## Yi-Hsin Lu (呂一昕)
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE}
+library(fontawesome)
+```
 
+[`r fa("phone")` +886 2 6628 9779]()
+
+[`r fa("envelope")` yhsamlu@gmail.com]()
+
+Working with urological associations on research in survival analysis and genomic annotation. Avid volleyball player, artist, and writer—currently considering a Ph.D. in bioinformatics or survival model algorithms, with dreams of going pro in volleyball.
